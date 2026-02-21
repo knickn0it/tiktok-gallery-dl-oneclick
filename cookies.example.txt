@@ -1,0 +1,2 @@
+# Rename to cookies.txt
+# Do not upload real cookies
